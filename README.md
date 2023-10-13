@@ -44,3 +44,6 @@ Follow these steps to run the Bike Share Data Analysis script:
 6. **Restart**: If you'd like to run the analysis for a different city or filter options, you can choose to restart the script.
 
 ## License
+This project is released under the me.
+
+Feel free to customize this README further or include additional sections as needed for your specific project requirements.
