@@ -42,3 +42,5 @@ Follow these steps to run the Bike Share Data Analysis script:
 5. **View Data**: After the analysis, you'll have the option to view raw data.
 
 6. **Restart**: If you'd like to run the analysis for a different city or filter options, you can choose to restart the script.
+
+## License
